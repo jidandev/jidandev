@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advance Javascript**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-luffy-v1.vercel.app/](https://portofolio-luffy-v1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jidandev.github.io/portfolio/](https://portofolio-luffy-v1.vercel.app/)
 
 - 💬 Ask me about **Html, css and javascript**
 
